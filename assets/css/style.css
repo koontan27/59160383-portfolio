@@ -15,7 +15,7 @@ body {
 
 header	{
 	float: left;
-	background-color: #4aaaa5;
+	background-color: #e83206;
 	border-bottom: none;
 	color: #ffffff;
 	height: 100%;
@@ -32,7 +32,7 @@ header	{
 
 h2,
 h3	{
-	color: #4aaaa5;
+	color: #e83206;
 	border-bottom:	3px solid #dddddd;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-top: 1px;
@@ -136,10 +136,10 @@ footer {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
-	background-image: url("../images/background.png");
+	background-image: url("../images/Background.jpg");
 	height: 600px;
 	width: 100%;
-	border-bottom: 5px solid #4aaaa5;
+	border-bottom: 5px solid #e83206;
 }
 
 .box {
@@ -171,13 +171,13 @@ footer {
 	top: -50px;
 	width: 100%;
 	height: 30px;
-	background-color: #4aaaa5;
+	background-color: #0dce96;
 	color: #ffffff;
 	text-align: center;
 }
 
 .button {
-	background-color: #4aaaa5;
+	background-color: #e83206;
 	color: #ffffff;
 	width: 100px;
 	height: 40px;
